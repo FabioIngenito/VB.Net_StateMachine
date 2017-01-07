@@ -1,0 +1,2 @@
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\C#\waStateMachine\waStateMachine\bin\Debug\waStateMachine.exe.config
+C:\Users\Fabio.Ingenito.COSINDNS\Documents\Visual Studio 2015\Projects\VB.Net\waStateMachine\waStateMachine\bin\Debug\waStateMachine.exe.config
